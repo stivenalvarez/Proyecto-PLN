@@ -1,4 +1,6 @@
 # Pipeline Avanzado de Procesamiento del Lenguaje Natural (PLN) y Minería de Texto
+Stiven David Alvarez Olmos 
+Dairo Enrique Contreras Quintana 
 
 Este repositorio contiene la implementación práctica y documentada de un pipeline completo de **Procesamiento del Lenguaje Natural (PLN)** y **Minería de Texto** aplicado a un corpus de comentarios de YouTube sobre tecnología y educación. El proyecto abarca desde el preprocesamiento tradicional hasta tareas avanzadas utilizando modelos de **Transformers** y **LLMs** bajo buenas prácticas de MLOps.
 
